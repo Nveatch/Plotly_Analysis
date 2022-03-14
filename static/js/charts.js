@@ -126,8 +126,6 @@ function buildCharts(sample) {
   
     // 2. Create a variable that holds the first sample in the metadata array.
     var gauge = gaugeArray[0];
-    console.log(gauge);
-
 
     // 3. Create a variable that holds the washing frequency.
     washFreq = parseFloat(gauge.wfreq);
