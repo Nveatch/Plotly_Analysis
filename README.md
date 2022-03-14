@@ -1,5 +1,6 @@
 # plotly_chart
 
+![webpage](https://github.com/Nveatch/plotly_chart/blob/main/static/images/webpage.png)
 ## Overview of Project
 
 ### Purpose
