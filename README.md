@@ -1,4 +1,4 @@
-# plotly_chart
+# Plotly_Analysis
 
 ![webpage](https://github.com/Nveatch/plotly_chart/blob/main/static/images/webpage.png)
 ## Overview of Project
